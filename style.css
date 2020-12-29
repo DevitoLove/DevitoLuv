@@ -14,8 +14,7 @@
   .main {
     display: block;
     position: absolute;
-    top: 0;
-    left: 40%;
+    alig-items: center
     -webkit-transform: translate(-50%, -50%);
             transform: translate(-50%, -50%);
     width: 50vw;
